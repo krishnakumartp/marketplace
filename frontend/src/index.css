@@ -112,4 +112,9 @@ html{
   
   }
   
+  .rating span:last-child{
+    color: #404040;
+    margin: 0.1rem;
+
+}
   
