@@ -11,7 +11,7 @@ class  Product extends  React.Component{
 
       return(
             <div key={product.id} className="card">
-            <a href= {`/product.${product.id}`}>
+            <a href= {`/product/${product.id}`}>
              <img className="img medium" src={product.image}
               alt= {product.name} /> 
             </a>
