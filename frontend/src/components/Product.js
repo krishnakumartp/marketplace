@@ -3,6 +3,7 @@ import Rating from './Rating';
 
 class  Product extends  React.Component{
 
+/*Comments added in Develop code */
 
 
     render(){
