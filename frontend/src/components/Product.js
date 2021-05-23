@@ -4,6 +4,7 @@ import Rating from './Rating';
 class  Product extends  React.Component{
 
 /*Comments added in Develop code */
+/* SECOND COMMENT FOR THE PULL REQUEST*/
 
 
     render(){
